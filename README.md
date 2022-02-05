@@ -1,8 +1,6 @@
 # PDF Fill Thai
 ## Fill a PDF Form with Thai language supported.
 
-[![Build Status](https://travis-ci.org/topkstt/fill-pdf-thai.svg?branch=master)](https://travis-ci.org/topkstt/fill-pdf-thai)
-
 ## Support Font List
 - Kanit
 - Prompt
