@@ -2,3 +2,5 @@
 /node_modules
 /.idea
 *.xfdf
+package-lock.json
+.DS_Store
