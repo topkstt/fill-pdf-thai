@@ -1,0 +1,36 @@
+{
+  "name": "fill-pdf-thai",
+  "version": "1.0.0",
+  "description": "Fill PDF form using Node.js, Esspecially support Thai language fill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test-fill-pdf-utf8.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topkstt/fill-pdf-thai.git"
+  },
+  "keywords": [
+    "pdf",
+    "xfdf",
+    "thai",
+    "java",
+    "pdf-fill",
+    "abobe"
+  ],
+  "author": "TopKST <topkstt@pm.me> (https://github.com/topkstt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topkstt/fill-pdf-thai/issues"
+  },
+  "homepage": "https://github.com/topkstt/fill-pdf-thai#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "xmlbuilder": "^15.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.0",
+    "should": "^13.2.3",
+    "xml2js": "^0.4.23"
+  }
+}
